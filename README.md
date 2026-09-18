@@ -19,8 +19,6 @@ Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologí
 
 ### Proyectos Destacados
 
-### Proyectos Destacados
-
 * [**Payments App**](https://github.com/juanmacristobo/payments-app-nextjs) — Desarrollo individual del módulo de pagos para una aplicación distribuida compuesta por cuatro aplicaciones independientes. Integración con Mercado Pago, PostgreSQL, Prisma y Clerk.
 
 * [**Control Plane**](https://github.com/juanmacristobo/control-plane-nextjs) — Desarrollo colaborativo de la aplicación de administración del sistema. Integración mediante APIs con las cuatro aplicaciones que componen la plataforma.
