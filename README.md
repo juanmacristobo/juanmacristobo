@@ -1,10 +1,6 @@
 # Juan Manuel Cristobo
 
-Estudiante avanzado de **Ingeniería en Sistemas de Información** en la **Universidad Nacional del Sur (UNS)**, formado en desarrollo de software, tecnologías web y buenas prácticas de diseño.
-
-Enfoque en el desarrollo colaborativo dentro de proyectos académicos y personales, y en el aprendizaje continuo mediante la exploración de nuevas herramientas y tecnologías.
-
-He trabajado en proyectos de desarrollo de software, abordando tanto el desarrollo web como la programación orientada a objetos, el diseño de algoritmos y el trabajo con bases de datos.
+Estudiante avanzado de **Ingeniería en Sistemas de Información** en la **Universidad Nacional del Sur (UNS)**, formado en desarrollo de software, tecnologías web y buenas prácticas de diseño. He trabajado en proyectos que abordan tanto el desarrollo web como la programación orientada a objetos, el diseño de algoritmos y el trabajo con bases de datos.
 
 Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologías.
 
