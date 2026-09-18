@@ -29,7 +29,7 @@ Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologí
 
 * [**Mario Bros**](https://github.com/juanmacristobo/mario-bros-java) — Videojuego desarrollado aplicando programación orientada a objetos y patrones de diseño en Java.
 
-  -----
+-----
 
 ###  Contacto
 
