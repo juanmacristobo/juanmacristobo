@@ -8,6 +8,8 @@ He trabajado en proyectos de desarrollo de software, abordando tanto el desarrol
 
 Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologías.
 
+-----
+
 ### Stack Tecnológico y Herramientas
 
 * **Lenguajes:** Java, TypeScript, JavaScript, C, Prolog, SQL
@@ -16,6 +18,8 @@ Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologí
 * **Arquitectura y Prácticas:** Programación Orientada a Objetos, Arquitectura por Capas, SOLID
 * **Autenticación y Seguridad:** Clerk, sesiones, autorización y cookies
 * **Herramientas:** Git, GitHub, Vercel
+
+-----
 
 ### Proyectos Destacados
 
@@ -31,6 +35,7 @@ Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologí
 * **Mario Bros** — Videojuego desarrollado aplicando programación orientada a objetos y patrones de diseño en Java.
   [Repositorio](https://github.com/juanmacristobo/mario-bros-java)
 
+  -----
 
 ###  Contacto
 
