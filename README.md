@@ -19,17 +19,15 @@ Me interesa seguir profundizando estos conocimientos y conocer nuevas tecnologí
 
 ### Proyectos Destacados
 
-* **Payments App** — Desarrollo individual del módulo de pagos para una aplicación distribuida compuesta por cuatro aplicaciones independientes. Integración con PostgreSQL, Prisma, Clerk y Mercado Pago.
-  [Repositorio](https://github.com/juanmacristobo/payments-app-nextjs)
+### Proyectos Destacados
 
-* **Control Plane** — Desarrollo colaborativo de la aplicación de administración del sistema. Integración mediante APIs con las cuatro aplicaciones que componen la plataforma.
-  [Repositorio](https://github.com/juanmacristobo/control-plane-nextjs)
+* [**Payments App**](https://github.com/juanmacristobo/payments-app-nextjs) — Desarrollo individual del módulo de pagos para una aplicación distribuida compuesta por cuatro aplicaciones independientes. Integración con Mercado Pago, PostgreSQL, Prisma y Clerk.
 
-* **M2 Blocks** — Desarrollo de un juego inspirado en 2048, integrando React y TypeScript con un motor de reglas implementado en Prolog.
-  [Repositorio](https://github.com/juanmacristobo/m2-blocks-game-2048)
+* [**Control Plane**](https://github.com/juanmacristobo/control-plane-nextjs) — Desarrollo colaborativo de la aplicación de administración del sistema. Integración mediante APIs con las cuatro aplicaciones que componen la plataforma.
 
-* **Mario Bros** — Videojuego desarrollado aplicando programación orientada a objetos y patrones de diseño en Java.
-  [Repositorio](https://github.com/juanmacristobo/mario-bros-java)
+* [**M2 Blocks**](https://github.com/juanmacristobo/m2-blocks-game-2048) — Desarrollo de un juego inspirado en 2048, integrando React y TypeScript con un motor de reglas implementado en Prolog.
+
+* [**Mario Bros**](https://github.com/juanmacristobo/mario-bros-java) — Videojuego desarrollado aplicando programación orientada a objetos y patrones de diseño en Java.
 
   -----
 
